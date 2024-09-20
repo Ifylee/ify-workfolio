@@ -1,9 +1,5 @@
 import React from "react";  
 
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-
-
-
 
 function Footer() {
     const icons = [
@@ -17,12 +13,32 @@ function Footer() {
         }
     ];
 
+
+    const LinkStyle = {
+        textDecoration: "none",
+        color: "black",
+        cursor: "pointer"
+    }
+
+    const FooterStyle = {
+        height: "50px",
+        display: "grid",
+        alignItems: "center",
+        justifyContent: "center",
+        gridGap: "15px"
+    }
+
     return (
-        <footer>
+        <footer style={FooterStyle}>
+            <section>
+               {/* {new Date.getYear()}  */}
+            </section>
+            <section>
             {icons.map((icon => {
                 return (
-                    <a href={icon.links} key={icon.name} target="_blank" rel="noopener noreferrer"> Hi <i className={icon.name}></i> </a>
+                    <a href={icon.links} key={icon.name} target="_blank" rel="noopener noreferrer" style={LinkStyle}> <i className={icon.name}></i> </a>
             )}))}
+            </section>
         </footer>
     );  
 }
