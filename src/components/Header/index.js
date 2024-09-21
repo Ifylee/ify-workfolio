@@ -5,8 +5,8 @@ import "./style.css";
 function Header(props) {
     return (
         <header className="header-container">
-        <h1>Ify</h1>
-        <img src="https://images.unsplash.com/photo-1720778693818-ab47a7fc6df4?q=80&w=3174&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"/>
+        <h1>Welcome to my Portfolio</h1>
+        <img src="https://plus.unsplash.com/premium_photo-1667587245819-2bea7a93e7a1?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fHBvcnRmb2xpbyUyMGJhY2tncm91bmR8ZW58MHx8MHx8fDA%3D" alt="background"/>
         {props.children}
         </header>
     );
