@@ -30,14 +30,11 @@ function Footer() {
 
     return (
         <footer style={FooterStyle}>
-            <section>
-               {/* {new Date.getYear()}  */}
-            </section>
-            <section>
-            {icons.map((icon => {
-                return (
-                    <a href={icon.links} key={icon.name} target="_blank" rel="noopener noreferrer" style={LinkStyle}> <i className={icon.name}></i> </a>
-            )}))}
+            <section style={{display: "grid", gridTemplateColumns: "max-content 1fr 1fr", gridGap: "20px"}}>
+                <span style={{paddingRight: "15px"}}>© {new Date().getFullYear()}</span>
+                    {icons.map((icon => {
+                         return (<a href={icon.links} key={icon.name} target="_blank" rel="noopener noreferrer" style={LinkStyle}> <i className={icon.name}></i> </a>
+                    )}))}
             </section>
         </footer>
     );  
