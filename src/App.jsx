@@ -1,40 +1,13 @@
-import React, { useState } from 'react';
-import Footer from './components/Footer';   
-import Header from './components/Header';
-import Nav from './components/Nav';
-
-
-// components
+import Header from "./components/Header";
+import Nav from "./components/Nav";
+import Footer from "./components/Footer";
+import Page from "./components/Page";
+import { useLocation } from "react-router-dom";
 
 function App() {
-    const  [pages] = useState([
-        {
-            name: "Home", 
-            description: "Home Page"
-        },
-        {
-            name: "About",
-            description: "About Page"
-        },
-        {
-            name: "Portfolio", 
-            description: "Portfolio Page"
-        },
-        {
-            name: "Resume", 
-            description: "Resume Page"
-        },
-        {
-            name: "Contact", 
-            description: "Contact Page"
-        },
-    ]);
+  const currentPage = useLocation().pathname;
 
-    const [currentPage, setCurrentPage] = useState(pages[0]);
-
-
-
-    return (
+  return (
     <div>
       <Header>
         <Nav currentPage={currentPage} />
@@ -45,7 +18,6 @@ function App() {
       <Footer />
     </div>
   );
-    
 }
 
-export default App; 
+export default App;

@@ -6,31 +6,31 @@ function Portfolio() {
   // Replace links with deployed projects and GitHub repos
   const [activities] = useState([
     {
-      name: 'blog-vista',
+      name: 'blogVista',
       description: 'CMS-style-blog',
-      link: "https://blog-vista-dmdu.onrender.com",
+      link: "https://blogVista-dmdu.onrender.com",
       repo: "https://github.com/Ifylee/blog_vista"
     },
     {
-      name: 'weather-channel',
+      name: 'weatherChannel',
       description: 'Server-side-APIs',  
       link: "https://ifylee.github.io/weather-channel/",
       repo: "https://github.com/Ifylee/weather-channel"
     },
     {
-      name: 'list-it',
+      name: 'listIt',
       description: 'MERN-stack',
       link: "https://list-it-kw5e.onrender.com/",
       repo: "https://github.com/Ifylee/List-It"
     },
     {
-      name: 'dream-voyage',
+      name: 'dreamVoyage',
       description: 'MERN-stack',
       link: "https://dream-voyage.onrender.com/",
       repo: "https://github.com/Ifylee/Dream-Voyage"
     },
     {
-      name: 'code-refactor',
+      name: 'codeRefactor',
       description: 'HTML/CSS',
       link: "https://ifylee.github.io/business-marketing-strategies/",
       repo: "https://github.com/Ifylee/business-marketing-strategies"
