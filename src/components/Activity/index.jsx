@@ -7,7 +7,7 @@ function Activity({ activity }) {
   return (
     <div className="activity" key={name}>
       <img
-        src={projects[name]}
+        src={activities[name]}
         alt={removeHyphensAndCapitalize(name)}
         className="project-bg"
       />

@@ -5,11 +5,11 @@ function Footer() {
     const icons = [
         {
             name: "fa-brands fa-github",
-            links: "https//github.com"
+            links: "https://github.com/Ifylee"
         },
         {
             name: "fa-brands fa-linkedin",
-            links: "https//linkedin.com"
+            links: "https://www.linkedin.com/in/ifeyinwa-ekezie-565a6b154/"
         }
     ];
 
