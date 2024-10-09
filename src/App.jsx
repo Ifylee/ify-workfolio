@@ -34,15 +34,17 @@ function App() {
 
 
 
-    return <div>
-            <Header>
-                <Nav pages={pages} setCurrentPage={setCurrentPage} currentPage={currentPage} />
-            </Header>
-            <main>
-              
-            </main>   
-            <Footer/>     
-        </div>
+    return (
+    <div>
+      <Header>
+        <Nav currentPage={currentPage} />
+      </Header>
+      <main>
+        <Page currentPage={currentPage} />
+      </main>
+      <Footer />
+    </div>
+  );
     
 }
 
