@@ -1,5 +1,5 @@
-import { removeHyphensAndCapitalize } from '../../utils/helpers';
-import * as activities from '../../assets';
+import { removeHyphensAndCapitalize } from '../../utils/helper';
+import * as activities from '../../asset';
 
 function Activity({ activity }) {
   const { name, repo, link, description } = activity;
