@@ -65,5 +65,6 @@ For any inquiries or feedback feel free to reach out:
 - Email: [ifyekezie@yahoo.co.uk](mailto:ifyekezie@yahoo.co.uk)
 
 **Screenshot of my app**
-
+![alt text](<Screenshot 2024-10-10 143415.png>)
+![alt text](<Screenshot 2024-10-10 145444.png>)
 
