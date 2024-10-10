@@ -179,7 +179,9 @@ header img {
   position: absolute;
   top: 0;
   left: 0;
+  object-fit: cover;
   height: auto;
+  width: 100%;
   filter: sepia(1) opacity(60%);
   opacity: 0.5;
 }
