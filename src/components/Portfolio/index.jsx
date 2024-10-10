@@ -6,9 +6,9 @@ function Portfolio() {
   // Replace links with deployed projects and GitHub repos
   const [activities] = useState([
     {
-      name: 'blogVista',
+      name: 'blog_vista',
       description: 'CMS-style-blog',
-      link: "https://blogVista-dmdu.onrender.com",
+      link: "https://blog-vista-dmdu.onrender.com/",
       repo: "https://github.com/Ifylee/blog_vista"
     },
     {
@@ -18,7 +18,7 @@ function Portfolio() {
       repo: "https://github.com/Ifylee/weather-channel"
     },
     {
-      name: 'listIt',
+      name: 'List-It',
       description: 'MERN-stack',
       link: "https://list-it-kw5e.onrender.com/",
       repo: "https://github.com/Ifylee/List-It"
