@@ -9,9 +9,9 @@ function Activity({ activity }) {
       <img
         src={activities[name]}
         alt={removeHyphensAndCapitalize(name)}
-        className="project-bg"
+        className="activity-bg"
       />
-      <div className="project-text">
+      <div className="activity-text">
         <h3>
           <a href={link}>{removeHyphensAndCapitalize(name)}</a>
           &nbsp;
