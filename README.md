@@ -49,6 +49,8 @@ Run npm start
 ## Usage
 Once running, the portfolio can be accessed by visiting http://localhost:3000 in the browser. You can explore the projects section, view detailed descriptions, and navigate between different sections using the navigation bar. Each project is showcased with its respective details, technologies used, and a link to the repository.
 
+**Here's the link to my deployed app on Netlify:**
+https://ify-workfolio.netlify.app
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
@@ -59,7 +61,7 @@ ontributions are welcome!
 ## Contacts
 
 For any inquiries or feedback feel free to reach out: 
-- Github: [ifylee](https://github.com/ifylee)
+- Github: [ifylee](https://github.com/Ifylee/ify-workfolio)
 - Email: [ifyekezie@yahoo.co.uk](mailto:ifyekezie@yahoo.co.uk)
-- LinkedIn: 
 
+**Screenshot of my app**
