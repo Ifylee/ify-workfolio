@@ -9,7 +9,7 @@ main {
   --tertiary: #b12704;
   --light: #CCD6E0;
   --dark: #1e3d5c;
-  --darker: #122436;
+  --darker: #364e62;
   --alpha: rgba(255,255,255,.7);
   --error: rgb(228, 46, 1);
   --spacing-one: calc(1rem * 0.5);
@@ -312,7 +312,7 @@ textarea {
   width: 100%;
   max-width: 500px;
   height: 300px;
-  margin: 30px;
+  margin: 20px;
 }
 
 .activity-bg {
@@ -334,24 +334,24 @@ textarea {
     transition: all .5s ease-in-out;
 }
 
-.project-text:hover {
+.activity-text:hover {
   background-color: var(--alpha);
   opacity: 1;
   border: 10px solid var(--secondary);
 }
 
-.project-text h3 {
+.activity-text h3 {
   font-size: 2.5rem;
 }
 
-.project-text a {
+.activity-text a {
   text-decoration: none;
   font-weight: bold;
   color: var(--dark);
   transition: all .3s ease-in-out;
 }
 
-.project-text a:hover {
+.activity-text a:hover {
   color: var(--darker);
 }
 
