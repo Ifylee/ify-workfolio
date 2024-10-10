@@ -1,12 +1,12 @@
 import React from 'react';
 
-import "./style.css";
+import coverPix from '../../asset/images/coverPix.png';
 
 function Header(props) {
     return (
-        <header className="header-container">
+        <header className="flex-row space-between px-1">
         <h1>Ify-Workfolio</h1>
-        <img src="C:\Users\ifyek\OneDrive\Desktop\ify-workfolio\src\asset\images\coverImage.png"/>
+        <img src={coverPix} alt="image of an open laptop on a table"></img>
         {props.children}
         </header>
     );
