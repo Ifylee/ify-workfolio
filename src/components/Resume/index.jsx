@@ -3,7 +3,7 @@ function Resume() {
       <section className="my-5">
         <div className="my-2">
         <p>
-          Download my <a href="C:\Users\ifyek\OneDrive\Desktop\ify-workfolio\src\asset\CvUpdated.docx">resume</a>
+          Download my <a href="/CvUpdated.docx">resume</a>
           </p>
           <h3>Front-end Competencies</h3>
           <ul className="skills">

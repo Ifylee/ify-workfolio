@@ -3,7 +3,11 @@ function About() {
       <section className="my-5">
         <div className="my-2">
           <div className="profile-img my-5">
-          <i className="fas fa-user-circle" style={{ fontSize: "96px" }}></i>
+            <img
+              src="/profilePix.jpg" 
+              alt="Ifeyinwa Ekezie"
+              style={{ width: "150px", borderRadius: "50%" }}
+            />
           </div>
           <p>
           My name is Ifeyinwa Constance Ekezie, and I am an aspiring web developer with a passion for creating efficient and user-friendly web applications. With a solid grounding in front-end technologies like HTML, CSS, JavaScript, and jQuery, combined with back-end skills in Node.js, I enjoy building solutions that bridge the gap between functionality and design.</p>
@@ -18,4 +22,4 @@ function About() {
   }
   
   export default About;
-   
+

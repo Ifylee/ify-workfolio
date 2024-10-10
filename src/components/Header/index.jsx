@@ -1,6 +1,6 @@
 import React from 'react';
 
-import coverPix from '../../asset/images/coverPix.png';
+import coverPix from '../../asset/images/coverPix.jpg';
 
 function Header(props) {
     return (
