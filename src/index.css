@@ -112,12 +112,6 @@ header {
 }
 
 header h1 {
-  display: block;
-  margin: 5px 10px;
-  height: 15px;
-  width: 100%;
-  text-align: center;
-  font-size: 2.3rem;
   position: relative;
   z-index: 2;
 }
@@ -396,6 +390,15 @@ textarea {
     z-index: 100;
     margin: 0 10px;
     font-size: 1.3rem;
+  }
+
+  header h1 {
+    display: block;
+    margin: 5px 10px;
+    height: 15px;
+    width: 100%;
+    text-align: center;
+    font-size: 2.3rem;
   }
  
 }
