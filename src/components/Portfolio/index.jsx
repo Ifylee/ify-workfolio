@@ -1,10 +1,13 @@
+// Importing useState from React and Activity component for displaying portfolio items
 import { useState } from 'react';
 import Activity from "../Activity";
 
 function Portfolio() {
 
-  // Replace links with deployed projects and GitHub repos
+  
   const [activities] = useState([
+  // Using useState to manage the list of activities/projects for the portfolio
+  // Each activity contains a name, description, link to the live project, and GitHub repository link
     {
       name: 'blogVista',
       description: 'CMS-style-blog',
@@ -43,6 +46,8 @@ function Portfolio() {
     },
   ]);
 
+  // Rendering a list of activities by mapping over the activities state array
+  // Each Activity component receives an activity object as a prop and a unique key
   return (
     <div>
       <div className="flex-row">
@@ -57,4 +62,5 @@ function Portfolio() {
   );
 };
 
+// Exporting the Portfolio component
 export default Portfolio;

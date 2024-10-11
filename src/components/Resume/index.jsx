@@ -1,10 +1,13 @@
+// Resume component to display the user's resume and skill sets
 function Resume() {
     return (
       <section className="my-5">
         <div className="my-2">
+          {/* Link to download the resume */}  
         <p>
           Download my <a href="/CvUpdated.docx">resume</a>
           </p>
+          {/* Front-end competencies section */}
           <h3>Front-end Competencies</h3>
           <ul className="skills">
             <li>HTML</li>
@@ -15,6 +18,7 @@ function Resume() {
             <li>React</li>
             <li>Bootstrap</li>
           </ul>
+           {/* Back-end competencies section */}
           <h3>Back-end Competencies</h3>
           <ul className="skills">
             <li>APIs</li>
@@ -30,5 +34,6 @@ function Resume() {
     );
   }
   
+  // Exporting the Resume component
   export default Resume;
   

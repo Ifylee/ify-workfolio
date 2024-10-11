@@ -1,7 +1,10 @@
+// This function defines the About component, which is a functional component in React.
 function About() {
     return (
+      // The section element with a class of 'my-5' is used to structure the content.
       <section className="my-5">
         <div className="my-2">
+          {/* Profile image section with a margin class for spacing */}
           <div className="profile-img my-5">
             <img
               src="/profilePix.jpg" 
@@ -21,5 +24,6 @@ function About() {
     );
   }
   
+  // Exporting the About component to make it available for import in other files.
   export default About;
 
