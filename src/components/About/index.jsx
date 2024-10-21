@@ -13,12 +13,12 @@ function About() {
             />
           </div>
           <p>
-          My name is Ifeyinwa Constance Ekezie, and I am an aspiring web developer with a passion for creating efficient and user-friendly web applications. With a solid grounding in front-end technologies like HTML, CSS, JavaScript, and jQuery, combined with back-end skills in Node.js, I enjoy building solutions that bridge the gap between functionality and design.</p>
+          I am Ifeyinwa Constance Ekezie, a dedicated web developer with a passion for creating efficient, user-centric web applications. My expertise spans front-end technologies like HTML, CSS, JavaScript, and jQuery, alongside back-end development with Node.js, allowing me to build solutions that balance aesthetics with functionality.</p>
           <p>
-          Currently, I am advancing my web development knowledge through the UC Berkeley Extension’s Full Stack Web Development program, where I am honing my skills in full-stack development. Prior to this, I completed a range of courses with Codecademy, which helped me build a strong foundation in coding and problem-solving.
-          In my previous roles as a Shipping Supervisor and Customer Service & Marketing Manager, I developed leadership, communication, and problem-solving skills that I now bring into my technical projects. These roles sharpened my ability to work under pressure, manage complex operations, and deliver results—all qualities I believe are crucial in web development.</p>
+          During a career break to welcome my first child, I found a new passion for coding, using the time to complete several courses with Codecademy that solidified my foundation in programming. This journey led me to earn my Full Stack Web Development certificate from UC Berkeley Extension, where I deepened my skills in full-stack development and problem-solving.
+          My background in French Language from the University of Calabar, Nigeria, has enriched my communication skills, while my previous roles as a Shipping Supervisor and Customer Service & Marketing Manager sharpened my leadership, strategic thinking, and ability to thrive under pressure. These experiences have given me a unique perspective that I now bring to my technical work.</p>
           <p>
-          I am excited to transition into a career where I can combine my technical knowledge with my passion for innovation and continuous learning. My goal is to contribute to a forward-thinking team where I can grow as a developer while making a meaningful impact.</p>
+          With my skills and determination, I am excited to re-enter the job market and make an impact as part of an innovative team. I am eager to contribute to dynamic projects, continue learning, and grow as a developer, all while delivering value through thoughtful and effective web solutions.</p>
         </div>
     </section>
     );
