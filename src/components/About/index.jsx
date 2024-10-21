@@ -13,10 +13,11 @@ function About() {
             />
           </div>
           <p>
-          I am Ifeyinwa Constance Ekezie, a dedicated web developer with a passion for creating efficient, user-centric web applications. My expertise spans front-end technologies like HTML, CSS, JavaScript, and jQuery, alongside back-end development with Node.js, allowing me to build solutions that balance aesthetics with functionality.</p>
+          My name is Ifeyinwa Constance Ekezie, and I am a passionate web developer with a passion for creating efficient and user-friendly web applications. With a solid foundation in front-end technologies like HTML, CSS, JavaScript, and jQuery, as well as back-end skills in Node.js, I enjoy building solutions that bridge the gap between functionality and design.</p>
           <p>
-          During a career break to welcome my first child, I found a new passion for coding, using the time to complete several courses with Codecademy that solidified my foundation in programming. This journey led me to earn my Full Stack Web Development certificate from UC Berkeley Extension, where I deepened my skills in full-stack development and problem-solving.
-          My background in French Language from the University of Calabar, Nigeria, has enriched my communication skills, while my previous roles as a Shipping Supervisor and Customer Service & Marketing Manager sharpened my leadership, strategic thinking, and ability to thrive under pressure. These experiences have given me a unique perspective that I now bring to my technical work.</p>
+          During my career break to welcome my first child, I discovered a passion for coding, leading me to complete several courses with Codecademy that strengthened my programming foundation.   This exploration ultimately led to my recent graduation from UC Berkeley Extension, where I earned a Full Stack Web Development certificate and honed my full-stack development skills.</p>
+         <p>
+         My background in French Language from the University of Calabar, Nigeria, has enriched my communication skills. In addition, my previous roles as a Shipping Supervisor and Customer Service & Marketing Manager sharpened my leadership abilities, strategic thinking, and capacity to thrive under pressure. These diverse experiences provide me with a unique perspective that I bring to my technical work.</p>
           <p>
           With my skills and determination, I am excited to re-enter the job market and make an impact as part of an innovative team. I am eager to contribute to dynamic projects, continue learning, and grow as a developer, all while delivering value through thoughtful and effective web solutions.</p>
         </div>
