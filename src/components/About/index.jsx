@@ -17,9 +17,9 @@ function About() {
           <p>
           During my career break to welcome my first child, I discovered a passion for coding, leading me to complete several courses with Codecademy that strengthened my programming foundation.   This exploration ultimately led to my recent graduation from UC Berkeley Extension, where I earned a Full Stack Web Development certificate and honed my full-stack development skills.</p>
          <p>
-         My background in French Language from the University of Calabar, Nigeria, has enriched my communication skills. In addition, my previous roles as a Shipping Supervisor and Customer Service & Marketing Manager sharpened my leadership abilities, strategic thinking, and capacity to thrive under pressure. These diverse experiences provide me with a unique perspective that I bring to my technical work.</p>
+         My B.A Hons in French has equipped me with exceptional inter-personal and communication skills. In addition, my previous roles as a Shipping Supervisor and Customer Service & Marketing Manager sharpened my leadership abilities, strategic thinking, and capacity to thrive under pressure. These diverse experiences provide me with a unique perspective that I bring to my technical work.</p>
           <p>
-          With my skills and determination, I am excited to re-enter the job market and make an impact as part of an innovative team. I am eager to contribute to dynamic projects, continue learning, and grow as a developer, all while delivering value through thoughtful and effective web solutions.</p>
+          With my skills and determination, I am excited to make an impact as part of an innovative team. I am eager to contribute to dynamic projects, continue learning, and grow as a developer, all while delivering value through thoughtful and effective web solutions.</p>
         </div>
     </section>
     );
