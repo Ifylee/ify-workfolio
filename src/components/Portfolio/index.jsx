@@ -23,7 +23,7 @@ function Portfolio() {
     {
       name: 'listIt',
       description: 'MERN-stack',
-      link: "https://list-it-kw5e.onrender.com/",
+      link: "https://list-it-z3t7.onrender.com",
       repo: "https://github.com/Ifylee/List-It"
     },
     {
