@@ -11,7 +11,7 @@ function Portfolio() {
     {
       name: 'blogVista',
       description: 'CMS-style-blog',
-      link: "https://blog-vista-dmdu.onrender.com/",
+      link: "https://blog-vista-q2wd.onrender.com",
       repo: "https://github.com/Ifylee/blog_vista"
     },
     {
