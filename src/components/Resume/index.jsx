@@ -5,7 +5,7 @@ function Resume() {
         <div className="my-2">
           {/* Link to download the resume */}  
         <p>
-          Download my <a href="/My-CV.docx">resume</a>
+          Download my <a href="My-CV.docx">resume</a>
           </p>
           {/* Front-end competencies section */}
           <h3>Front-end Competencies</h3>
