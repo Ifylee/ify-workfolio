@@ -13,13 +13,13 @@ function About() {
             />
           </div>
           <p>
-          My name is Ifeyinwa Constance Ekezie, and I am a passionate web developer with a passion for creating efficient and user-friendly web applications. With a solid foundation in front-end technologies like HTML, CSS, JavaScript, and jQuery, as well as back-end skills in Node.js, I enjoy building solutions that bridge the gap between functionality and design.</p>
+          I’m a full-stack web developer who took a rather new path into the world of code. My journey began after a career detour as a shipping supervisor, where I mastered the fine art of logistics, managing tight schedules, and keeping my cool amidst endless stacks of boxes. Somewhere between the tracking numbers and packing tape, I realized I craved a bit more creativity and challenge. My journey into coding began during a career break — a break that, admittedly, started as an attempt to squeeze in some extra sleep but ended up sparking a whole new passion!</p>
           <p>
-          During my career break to welcome my first child, I discovered a passion for coding, leading me to complete several courses with Codecademy that strengthened my programming foundation.   This exploration ultimately led to my recent graduation from UC Berkeley Extension, where I earned a Full Stack Web Development certificate and honed my full-stack development skills.</p>
+          I dove headfirst into programming, first through Codecademy, then solidified my skills at UC Berkeley, where I picked up modern tech essentials like JavaScript, React, Node.js, and databases. I quickly found that coding is a lot like solving puzzles (with the occasional urge to throw the puzzle out the window), and I loved it! Now, I’m all about creating responsive, user-friendly applications with just the right mix of creativity and logic. Every project I tackle gets the same level of attention, quality, and a good dose of humor because, hey, coding without fun is just typing.</p>
          <p>
-         My B.A Hons in French has equipped me with exceptional inter-personal and communication skills. In addition, my previous roles as a Shipping Supervisor and Customer Service & Marketing Manager sharpened my leadership abilities, strategic thinking, and capacity to thrive under pressure. These diverse experiences provide me with a unique perspective that I bring to my technical work.</p>
+         Outside of the digital realm, I’m a full-time mom, trying to keep up with my toddler while balancing the demands of a tech career. When I’m not coding or parenting, I’m usually learning something new, working on side projects, or finding creative ways to balance family life with tech.</p>
           <p>
-          With my skills and determination, I am excited to make an impact as part of an innovative team. I am eager to contribute to dynamic projects, continue learning, and grow as a developer, all while delivering value through thoughtful and effective web solutions.</p>
+          Driven by curiosity and a love for making things work (and look cool while doing it), I’m excited to bring fresh ideas and plenty of laughs to my next project. Let’s build something amazing — or, at the very least, something that won’t crash!</p>
         </div>
     </section>
     );
@@ -28,3 +28,9 @@ function About() {
   // Exporting the About component to make it available for import in other files.
   export default About;
 
+  
+
+ 
+  
+  
+  
