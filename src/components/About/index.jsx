@@ -13,8 +13,8 @@ function About() {
             />
           </div>
           <p>
-          I caught fire coding.
-
+          I caught fire coding.</p>
+          <p>
           As a first-generation immigrant in the United States, I thrived as a shipping supervisor, finding satisfaction in organization and problem-solving. But somewhere between the tracking numbers and packing tape, I realized I wanted more. I yearned for creativity and growth. </p>
           <p>
           During my career break as a first-time mom—a break I initially saw as a chance to catch up on sleep—I discovered my passion for coding through a Codecademy HTML tutorial. That spark ignited something deeper, and I soon pursued Berkeley Coding Boot Camp to solidify my skills.</p>
