@@ -10,37 +10,37 @@ function Portfolio() {
   // Each activity contains a name, description, link to the live project, and GitHub repository link
     {
       name: 'blogVista',
-      description: 'CMS-style-blog',
+      description: 'A CMS-style blog site where developers can publish and comment on blog posts.',
       link: "https://blog-vista-q2wd.onrender.com",
       repo: "https://github.com/Ifylee/blog_vista"
     },
     {
       name: 'weatherChannel',
-      description: 'Server-side-APIs',  
+      description: 'Get a 5-day weather forecast for any city or state with The Weather Channel app. Simply search and plan your trips with ease!',  
       link: "https://ifylee.github.io/weather-channel/",
       repo: "https://github.com/Ifylee/weather-channel"
     },
     {
       name: 'listIt',
-      description: 'MERN-stack',
+      description: 'An MVC full-stack app for tracking hobbies, with user accounts, CRUD functionality, and secure authentication.',
       link: "https://list-it-z3t7.onrender.com",
       repo: "https://github.com/Ifylee/List-It"
     },
     {
       name: 'dreamVoyage',
-      description: 'MERN-stack',
+      description: 'Dream Voyage helps users plan and book dream vacations with ease, offering curated packages for a seamless travel experience.',
       link: "https://dream-voyage.onrender.com/",
       repo: "https://github.com/Ifylee/Dream-Voyage"
     },
     {
       name: 'codeRefactor',
-      description: 'HTML/CSS',
+      description: 'This project focuses on refactoring index.html with semantic HTML and updating style.css to align with the new structure.',
       link: "https://ifylee.github.io/business-marketing-strategies/",
       repo: "https://github.com/Ifylee/business-marketing-strategies"
     },
      {
       name: 'graphbooks',
-      description: 'MERN-stack',
+      description: 'A full-stack app using the Google Books API and GraphQL with Apollo Server, allowing users to search and save books to a MongoDB database.',
       link: "https://graphbooks.onrender.com",
       repo: "https://github.com/Ifylee/graphBooks"
     },
