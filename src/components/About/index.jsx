@@ -13,13 +13,18 @@ function About() {
             />
           </div>
           <p>
-          I’m a full-stack web developer who took a rather new path into the world of code. My journey began after a career detour as a shipping supervisor, where I mastered the fine art of logistics, managing tight schedules, and keeping my cool amidst endless stacks of boxes. Somewhere between the tracking numbers and packing tape, I realized I craved a bit more creativity and challenge. My passion for coding came alive during my career break — a break that, admittedly, started as an attempt to squeeze in some extra sleep but ended up sparking a whole new passion!</p>
+          I caught fire coding.
+
+          As a first-generation immigrant in the United States, I thrived as a shipping supervisor, finding satisfaction in organization and problem-solving. But somewhere between the tracking numbers and packing tape, I realized I wanted more. I yearned for creativity and growth. </p>
           <p>
-          I dove headfirst into programming, first through Codecademy, then solidified my skills at UC Berkeley, where I picked up modern tech essentials like JavaScript, React, Node.js, and databases. I quickly found that coding is a lot like solving puzzles (with the occasional urge to throw the puzzle out the window), and I loved it! Now, I’m all about creating responsive, user-friendly applications with just the right mix of creativity and logic. Every project I tackle gets the same level of attention, quality, and a good dose of humor because, hey, coding without fun is just typing.</p>
+          During my career break as a first-time mom—a break I initially saw as a chance to catch up on sleep—I discovered my passion for coding through a Codecademy HTML tutorial. That spark ignited something deeper, and I soon pursued Berkeley Coding Boot Camp to solidify my skills.</p>
          <p>
-         Outside of the digital realm, I’m a full-time mom, trying to keep up with my toddler while balancing the demands of a tech career. When I’m not coding or parenting, I’m usually learning something new, working on side projects, or finding creative ways to balance family life with tech.</p>
+         Coding combines my love for puzzles, problem-solving, and creativity. It’s a field where breaking things (in a separate Git branch, of course) can lead to better solutions. Watching a web page seamlessly adapt to mobile screens is as satisfying as solving a complex puzzle.</p>
           <p>
-          Driven by curiosity and a love for making things work (and look cool while doing it), I’m excited to bring fresh ideas and plenty of laughs to my next project. Let’s build something amazing — or, at the very least, something that won’t crash!</p>
+          I’m moldable, like the web pages I design, yet I keep my creative spark intact. My specialties include responsive design, domain-driven development, website optimization, and MVC architecture. I’m proficient in HTML, CSS, jQuery, JavaScript, React, APIs, Node.js, Express, PostgreSQL, Sequelize, MongoDB, REST, GraphQL, and Git/GitHub, and am always eager to learn new technologies and frameworks.</p>
+          <p>
+          I’m ready to bring my passion and skills to a team that values creativity, collaboration, and a love for solving puzzles—just like me.
+          </p>
         </div>
     </section>
     );
@@ -31,6 +36,12 @@ function About() {
   
 
  
-  
-  
+ 
+
+
+
+
+
+
+
   
