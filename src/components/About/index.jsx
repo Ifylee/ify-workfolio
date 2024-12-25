@@ -15,15 +15,16 @@ function About() {
           <p>
           I caught fire coding.</p>
           <p>
-          As a first-generation immigrant in the United States, I thrived as a shipping supervisor, finding satisfaction in organization and problem-solving. But somewhere between the tracking numbers and packing tape, I realized I wanted more. I yearned for creativity and growth. </p>
+          Who could have imagined I'd become a coder? Born and raised in Nigeria, I earned my undergraduate degree in French and began a rewarding career as a Sales Manager for an underwater engineering company. This role allowed me to travel to countries like Taiwan, Switzerland, France, and Germany, blending professional development with adventure. </p>
           <p>
-          During my career break as a first-time mom—a break I initially saw as a chance to catch up on sleep—I discovered my passion for coding through a Codecademy HTML tutorial. That spark ignited something deeper, and I soon pursued Berkeley Coding Boot Camp to solidify my skills.</p>
+          In 2017, I visited America, where unexpected twists reshaped my life. I fell in love, got married, and started a new chapter as a wife. My career took off as a customer service representative, and within three months, I was promoted to Shipping Supervisor.</p>
          <p>
-         Coding combines my love for puzzles, problem-solving, and creativity. It’s a field where breaking things (in a separate Git branch, of course) can lead to better solutions. Watching a web page seamlessly adapt to mobile screens is as satisfying as solving a complex puzzle.</p>
+          During maternity leave, an ad for Codecademy caught my attention, sparking my journey into coding. I’ll never forget the moment I wrote my first line of code—"Hello, world." It felt magical as if I were the magician creating something extraordinary. That moment sparked an inextinguishable fire in me, awakening a passion for creating and problem-solving. All I wanted to do was code, code, code, code!</p>
           <p>
-          I’m moldable, like the web pages I design, yet I keep my creative spark intact. My specialties include responsive design, domain-driven development, website optimization, and MVC architecture. I’m proficient in HTML, CSS, jQuery, JavaScript, React, APIs, Node.js, Express, PostgreSQL, Sequelize, MongoDB, REST, GraphQL, and Git/GitHub, and am always eager to learn new technologies and frameworks.</p>
+          Motivated by my newfound passion, I enrolled in Codecademy’s full program and completed HTML, CSS, and JavaScript courses. I discovered that coding is like solving puzzles—each piece fitting into a grand vision. The satisfaction of building apps gave me a sense of empowerment: "If I want it, I can build it. Period!"</p>
           <p>
-          I’m ready to bring my passion and skills to a team that values creativity, collaboration, and a love for solving puzzles—just like me.
+          To solidify my knowledge, I took a career break and enrolled in UC Berkeley Extension’s 24-week intensive program in web development. It was a transformative journey that equipped me with front-end and back-end development skills and a deep understanding of full-stack technologies. Transitioning from a background in sales and logistics to information technology has been challenging, but it’s also what makes me unique. I bring a wealth of experience in customer service, communication, sales, and time management—skills that complement my technical expertise. 
+          I am excited to combine these strengths to create meaningful solutions and add value wherever I go.
           </p>
         </div>
     </section>
@@ -34,6 +35,10 @@ function About() {
   export default About;
 
   
+ 
+
+
+
 
  
  
