@@ -23,7 +23,7 @@ function About() {
           <p>
           Motivated by this passion, I enrolled in Codecademy’s full program, completing courses in HTML, CSS, and JavaScript. I discovered coding to be like solving puzzles, where each piece fits into a grand vision. The satisfaction of building apps empowered me: "If I want it, I can build it. Period!"</p>
           <p>
-          To deepen my knowledge, I took a career break and enrolled in UC Berkeley Extension’s 24-week intensive web development program. This transformative experience equipped me with front-end and back-end skills and a deep understanding of full-stack technologies. Transitioning from sales and logistics to information technology has been challenging, yet it makes me unique. I bring a wealth of experience in customer service, communication, sales, and time management—skills that complement my technical expertise. I am excited to combine these strengths to create meaningful solutions and add value wherever I go.
+          To deepen my knowledge, I enrolled in UC Berkeley Extension’s 24-week intensive web development program. This transformative experience equipped me with front-end and back-end skills and a deep understanding of full-stack technologies. Transitioning from sales and logistics to information technology has been challenging, yet it makes me unique. I bring a wealth of experience in customer service, communication, sales, and time management—skills that complement my technical expertise. I am excited to combine these strengths to create meaningful solutions and add value wherever I go.
           </p>
         </div>
     </section>
