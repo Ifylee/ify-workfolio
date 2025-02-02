@@ -27,13 +27,13 @@ function Portfolio() {
       repo: "https://github.com/Ifylee/List-It"
     },
     {
-      name: 'digital-Notebook',
+      name: 'DigitalNotebook',
       description: 'A user-friendly application designed to help users organize their thoughts and also keep track of notes, ideas and tasks efficiently.',
       link: "https://digital-notebook.onrender.com",
       repo: "https://github.com/Ifylee/digital-notebook"
     },
     {
-      name: 'shedule-board',
+      name: 'Shedule-Board',
       description: 'A project management application i built in order to help user keep track of task to dos, due dates and task progress.',
       link: "https://ifylee.github.io/schedule-board/",
       repo: "https://github.com/Ifylee/schedule-board"
