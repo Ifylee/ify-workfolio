@@ -27,16 +27,16 @@ function Portfolio() {
       repo: "https://github.com/Ifylee/List-It"
     },
     {
-      name: 'dreamVoyage',
-      description: 'Dream Voyage helps users plan and book dream vacations with ease, offering curated packages for a seamless travel experience.',
-      link: "https://dream-voyage.onrender.com/",
-      repo: "https://github.com/Ifylee/Dream-Voyage"
+      name: 'digital-Notebook',
+      description: 'A user-friendly application designed to help users organize their thoughts and also keep track of notes, ideas and tasks efficiently.',
+      link: "https://digital-notebook.onrender.com",
+      repo: "https://github.com/Ifylee/digital-notebook"
     },
     {
-      name: 'codeRefactor',
-      description: 'This project focuses on refactoring index.html with semantic HTML and updating style.css to align with the new structure.',
-      link: "https://ifylee.github.io/business-marketing-strategies/",
-      repo: "https://github.com/Ifylee/business-marketing-strategies"
+      name: 'shedule-board',
+      description: 'A project management application i built in order to help user keep track of task to dos, due dates and task progress.',
+      link: "https://ifylee.github.io/schedule-board/",
+      repo: "https://github.com/Ifylee/schedule-board"
     },
      {
       name: 'graphbooks',
