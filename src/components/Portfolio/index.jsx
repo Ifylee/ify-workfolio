@@ -33,7 +33,7 @@ function Portfolio() {
       repo: "https://github.com/Ifylee/digital-notebook"
     },
     {
-      name: 'Shedule-Board',
+      name: 'Schedule-Board',
       description: 'A project management application i built in order to help user keep track of task to dos, due dates and task progress.',
       link: "https://ifylee.github.io/schedule-board/",
       repo: "https://github.com/Ifylee/schedule-board"
