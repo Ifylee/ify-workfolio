@@ -7,7 +7,7 @@ function Header(props) {
     // Returning JSX structure for the header with a title, cover picture, and child elements
     return (
         <header className="flex-row space-between px-1">
-        <h1>Ify-Workfolio</h1>
+        <h1>Ifeyinwa Ekezie</h1>
         <img src={coverPix} alt="picture of a serene landscape of flowers and trees with a resting bench by the side of the walkway"></img>
         {props.children}
         </header>
