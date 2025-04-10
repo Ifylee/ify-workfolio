@@ -36,10 +36,8 @@ body {
   line-height: 1.5;
   font-size: 18px;
   letter-spacing: 0.1em;
-  background-color:'red';
-  background-size: cover;
-  /* background: var(--darker); */
-  /* color: var(--light); */
+  background: var(--darker); 
+  color: var(--light);
   font-family: 'Open Sans', sans-serif;
 }
 
@@ -110,7 +108,7 @@ header {
   position: relative;
   overflow: hidden;
   z-index: 2;
-  /* background: var(--dark); */
+  background: var(--dark);
 }
 
 header h1 {
