@@ -36,7 +36,7 @@ body {
   line-height: 1.5;
   font-size: 18px;
   letter-spacing: 0.1em;
-  background: url("/images/coverPix.jpg") no-repeat center center fixed;
+  background-color:'red';
   background-size: cover;
   /* background: var(--darker); */
   /* color: var(--light); */
